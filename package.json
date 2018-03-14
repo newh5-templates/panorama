@@ -1,0 +1,14 @@
+{
+  "name": "newh5-panorama-template",
+  "version": "1.0.0",
+  "description": "newh5 Panorama Template",
+  "scripts": {
+    "start": "newh5 start",
+    "build": "newh5 build"
+  },
+  "dependencies": {
+    "orientation.js": "^1.0.0",
+    "preloader.js": "^1.0.0",
+    "three": "^0.82.1"
+  }
+}
